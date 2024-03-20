@@ -1,10 +1,11 @@
-#AVIassembleGUI
-2024-03-19
+#AVIassembleGUI 2024-03-19; Written by the Siryaporn lab
 
-Contains the ptcGUI portion of AVIassembleGUI v1.3
+Contains:
 
-Also contains scripts to analyze STORM data
+1. The ptcGUI portion of AVIassembleGUI v1.2c; Compatibility: Matlab 2017
 
-Compatibility: Matlab 2023b
+2. The ptcGUI portion of AVIassembleGUI v1.3; Compatibility: Matlab 2023b
 
-Written by the Siryaporn lab
+3. Python scripts to analyze STORM data
+
+
